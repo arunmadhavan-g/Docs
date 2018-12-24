@@ -30,3 +30,9 @@
 
 ## 10. Commit the changes using Git tab.
 ![commit](./images/commit-git.png)
+
+
+## Useful links
+
+For writing style use [markdown](https://www.markdownguide.org/)
+For the code edit use [gitpod](https://www.gitpod.io/)
